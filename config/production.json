@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "fjordWaves",
+    "mongoUri": "mongodb+srv://fjord:1qaz2wsx@cluster0.0ofjp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
